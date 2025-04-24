@@ -1,6 +1,6 @@
 ﻿# QA-Test-Assessment
 
-##TOOLS AND FRAMEWORKS:
+# TOOLS AND FRAMEWORKS:
 
 
 VS Code --for automating purpose
@@ -9,7 +9,7 @@ Cypress -- Automation Framework
 
 Postman and Cypress - For API's 
 
-##STEPS
+# STEPS
 
 1. Install VS Code
 2. Install Node.js
